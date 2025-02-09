@@ -33,7 +33,7 @@ Easily manage and track sending cold emails for job search.
 ## Usage
 
 1. Start the Streamlit application: streamlit run cold_email_app.py
-2. 
+2. Send me a request to add you to test users @shlpadyal@gmail.com
 3. Navigate to `http://localhost:8501` in your web browser
 
 4. First-time setup:
@@ -70,4 +70,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For support, please open an issue in the GitHub repository or contact [your-email@example.com].
+For support, please open an issue in the GitHub repository or contact [shlpadyal@gmail.com].
